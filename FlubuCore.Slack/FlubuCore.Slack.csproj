@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/flubu-core/FlubuCore.Slack</PackageProjectUrl>
+  <Version>1.0.0</Version><AssemblyVersion>1.0.0.0</AssemblyVersion><FileVersion>1.0.0.0</FileVersion></PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FlubuCore" Version="3.2.1" />
+  </ItemGroup>
+
+</Project>

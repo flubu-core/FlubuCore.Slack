@@ -1,0 +1,7 @@
+.vs/
+Build/bin/
+Build/obj/
+FlubuCore.Slack/bin/
+FlubuCore.Slack/obj/
+output/
+bin/
